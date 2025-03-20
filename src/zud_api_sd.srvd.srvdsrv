@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for external api'
+define service ZUD_API_SD {
+  expose ZUD_CUST_AGENCY;
+}
